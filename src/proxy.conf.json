@@ -1,0 +1,8 @@
+{
+    "/api/*":{
+    "target":"https://listado-personas-local-ref-app-default-rtdb.firebaseio.com/datos.js",
+    "secure":false,
+    "loglevel": "debug"
+     }
+
+}
